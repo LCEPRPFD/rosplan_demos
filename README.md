@@ -13,7 +13,6 @@ mkdir -p ~/rosplan_ws/src
 cd ~/rosplan_ws/src
 git clone -b action-interface-py https://git.oschina.net/oschina/android-app.git
 git clone https://github.com/clearpathrobotics/occupancy_grid_utils
-
 ```
 
 2. Compile the code:
