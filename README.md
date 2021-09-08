@@ -17,6 +17,7 @@ git clone https://github.com/clearpathrobotics/occupancy_grid_utils
 
 2. Compile the code:
 ```
+cd ~/rosplan
 catkin build
 ```
 
